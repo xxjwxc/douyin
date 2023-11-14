@@ -4,7 +4,7 @@
 // 	protoc        v3.14.0
 // source: msg/dy.proto
 
-package msg
+package douyin
 
 import (
 	proto "github.com/golang/protobuf/proto"

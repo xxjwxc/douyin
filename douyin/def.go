@@ -1,4 +1,4 @@
-package msg
+package douyin
 
 import "github.com/xxjwxc/public/mywebsocket"
 
